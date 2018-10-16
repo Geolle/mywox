@@ -1,0 +1,13 @@
+sasPsw=15153188833jn
+myIp=192.168.0.161
+layermsg=layer.msg("", { icon: 1 });
+requirejs=<script> require(['jquery'], function ($) { }); </script>
+YangGoOnline=http://forum.yangoedu.com
+offlinehuoban=Server=192.168.0.155;Port=3306;userid=root;pwd=!QAZ2wsx#$;Database=huoban4test
+jinhudemo=http://demo.jinhusns.com
+47psw=Tu2n0y1n7$et
+hexpsw=qdyx&34994
+chocoProgramsPath=-ia "INSTALLDIR=""D:\ChocolateyPrograms\"""
+hexpalipsw=qwer_198310
+8178188=jc911230
+chocoTempDownloadDir=C:\Users\Smile_Gum_Gum\AppData\Local\Temp\chocolatey\

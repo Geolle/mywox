@@ -1,0 +1,333 @@
+{
+  "Hotkey": "Alt + Space",
+  "Language": "zh-cn",
+  "Theme": "BlurBlack",
+  "QueryBoxFont": "Microsoft Sans Serif",
+  "QueryBoxFontStyle": null,
+  "QueryBoxFontWeight": null,
+  "QueryBoxFontStretch": null,
+  "ResultFont": "Microsoft Sans Serif",
+  "ResultFontStyle": null,
+  "ResultFontWeight": null,
+  "ResultFontStretch": null,
+  "AutoUpdates": true,
+  "WindowLeft": 560.0,
+  "WindowTop": 248.5,
+  "MaxResultsToShow": 6,
+  "ActivateTimes": 307,
+  "CustomPluginHotkeys": [],
+  "Opacity": 1.0,
+  "OpacityMode": 0,
+  "DontPromptUpdateMsg": false,
+  "EnableUpdateLog": false,
+  "StartWoxOnSystemStartup": true,
+  "HideOnStartup": true,
+  "LeaveCmdOpen": false,
+  "HideWhenDeactive": true,
+  "RememberLastLaunchLocation": false,
+  "IgnoreHotkeysOnFullscreen": false,
+  "Proxy": {
+    "Enabled": false,
+    "Server": null,
+    "Port": 0,
+    "UserName": null,
+    "Password": null
+  },
+  "LastQueryMode": "Selected",
+  "PluginSettings": {
+    "PythonDirectory": null,
+    "Plugins": {
+      "2f4e384e-76ce-45c3-aea2-b16f5e5c328f": {
+        "ID": "2f4e384e-76ce-45c3-aea2-b16f5e5c328f",
+        "Name": "Hello World Python",
+        "ActionKeywords": [
+          "h"
+        ],
+        "Disabled": false
+      },
+      "CEA0FDFC6D3B4085823D60DC76F28855": {
+        "ID": "CEA0FDFC6D3B4085823D60DC76F28855",
+        "Name": "Calculator",
+        "ActionKeywords": [
+          "*"
+        ],
+        "Disabled": false
+      },
+      "9B36CE6181FC47FBB597AA2C29CD9B0A": {
+        "ID": "9B36CE6181FC47FBB597AA2C29CD9B0A",
+        "Name": "Colors",
+        "ActionKeywords": [
+          "*"
+        ],
+        "Disabled": false
+      },
+      "209621585B9B4D81813913C507C058C6": {
+        "ID": "209621585B9B4D81813913C507C058C6",
+        "Name": "Control Panel",
+        "ActionKeywords": [
+          "cp"
+        ],
+        "Disabled": false
+      },
+      "D2D2C23B084D411DB66FE0C79D6C2A6E": {
+        "ID": "D2D2C23B084D411DB66FE0C79D6C2A6E",
+        "Name": "Everything",
+        "ActionKeywords": [
+          "*"
+        ],
+        "Disabled": false
+      },
+      "B4D3B69656E14D44865C8D818EAE47C4": {
+        "ID": "B4D3B69656E14D44865C8D818EAE47C4",
+        "Name": "Folder",
+        "ActionKeywords": [
+          "bf"
+        ],
+        "Disabled": false
+      },
+      "6A122269676E40EB86EB543B945932B9": {
+        "ID": "6A122269676E40EB86EB543B945932B9",
+        "Name": "Plugin Indicator",
+        "ActionKeywords": [
+          "*"
+        ],
+        "Disabled": false
+      },
+      "D2D2C23B084D422DB66FE0C79D6C2A6A": {
+        "ID": "D2D2C23B084D422DB66FE0C79D6C2A6A",
+        "Name": "Wox Plugin Management",
+        "ActionKeywords": [
+          "wpm"
+        ],
+        "Disabled": false
+      },
+      "791FC278BA414111B8D1886DFE447410": {
+        "ID": "791FC278BA414111B8D1886DFE447410",
+        "Name": "Program",
+        "ActionKeywords": [
+          "*"
+        ],
+        "Disabled": false
+      },
+      "D409510CD0D2481F853690A07E6DC426": {
+        "ID": "D409510CD0D2481F853690A07E6DC426",
+        "Name": "Shell",
+        "ActionKeywords": [
+          ">"
+        ],
+        "Disabled": false
+      },
+      "CEA08895D2544B019B2E9C5009600DF4": {
+        "ID": "CEA08895D2544B019B2E9C5009600DF4",
+        "Name": "System Commands",
+        "ActionKeywords": [
+          "*"
+        ],
+        "Disabled": false
+      },
+      "0308FD86DE0A4DEE8D62B9B535370992": {
+        "ID": "0308FD86DE0A4DEE8D62B9B535370992",
+        "Name": "URL",
+        "ActionKeywords": [
+          "url"
+        ],
+        "Disabled": false
+      },
+      "565B73353DBF4806919830B9202EE3BF": {
+        "ID": "565B73353DBF4806919830B9202EE3BF",
+        "Name": "Web Searches",
+        "ActionKeywords": [
+          "g",
+          "wiki",
+          "findicon",
+          "facebook",
+          "twitter",
+          "maps",
+          "translate",
+          "duckduckgo",
+          "github",
+          "gist",
+          "gmail",
+          "drive",
+          "wolframalpha",
+          "stackoverflow",
+          "lucky",
+          "image",
+          "youtube",
+          "bing",
+          "yahoo",
+          "bd"
+        ],
+        "Disabled": false
+      },
+      "d8a9f211303142439c68ab403b809da2": {
+        "ID": "d8a9f211303142439c68ab403b809da2",
+        "Name": "Alias",
+        "ActionKeywords": [
+          "a"
+        ],
+        "Disabled": false
+      },
+      "0ECADE17459B49F587BF81DC3A125110": {
+        "ID": "0ECADE17459B49F587BF81DC3A125110",
+        "Name": "Browser Bookmarks",
+        "ActionKeywords": [
+          "b"
+        ],
+        "Disabled": false
+      },
+      "E234E3FBF4294AF9A0B78F75BD89EDD1": {
+        "ID": "E234E3FBF4294AF9A0B78F75BD89EDD1",
+        "Name": "caniuse",
+        "ActionKeywords": [
+          "caniuse"
+        ],
+        "Disabled": false
+      },
+      "26ce9d10d27c11e488300800200c9a66": {
+        "ID": "26ce9d10d27c11e488300800200c9a66",
+        "Name": "Chocolatey",
+        "ActionKeywords": [
+          "choco"
+        ],
+        "Disabled": false
+      },
+      "D2D2C23B084D411DB66FE0C79D6C2A6C": {
+        "ID": "D2D2C23B084D411DB66FE0C79D6C2A6C",
+        "Name": "Clipboard History",
+        "ActionKeywords": [
+          "cb"
+        ],
+        "Disabled": false
+      },
+      "98E708098AD643A4954D8451244D92AD": {
+        "ID": "98E708098AD643A4954D8451244D92AD",
+        "Name": "ColorS",
+        "ActionKeywords": [
+          "/colors"
+        ],
+        "Disabled": false
+      },
+      "FF2C31D6A47348FFB9ED4EB26F6794E1": {
+        "ID": "FF2C31D6A47348FFB9ED4EB26F6794E1",
+        "Name": "Emoji",
+        "ActionKeywords": [
+          "emoji"
+        ],
+        "Disabled": false
+      },
+      "3c264c40a64311e4892e005056c00008": {
+        "ID": "3c264c40a64311e4892e005056c00008",
+        "Name": "Hosts",
+        "ActionKeywords": [
+          "hosts"
+        ],
+        "Disabled": false
+      },
+      "9C0A213FCED641DCA0D5ACFF4332C1FF": {
+        "ID": "9C0A213FCED641DCA0D5ACFF4332C1FF",
+        "Name": "Keyboard shortcuts",
+        "ActionKeywords": [
+          "sc"
+        ],
+        "Disabled": false
+      },
+      "BEA2B844125B11E793AE92361F002671": {
+        "ID": "BEA2B844125B11E793AE92361F002671",
+        "Name": "MyIp",
+        "ActionKeywords": [
+          "myip"
+        ],
+        "Disabled": false
+      },
+      "BEA0FDFC6D3B4085823A60DC76F28844": {
+        "ID": "BEA0FDFC6D3B4085823A60DC76F28844",
+        "Name": "Need",
+        "ActionKeywords": [
+          "need"
+        ],
+        "Disabled": false
+      },
+      "164401726DC3442A91FE555819832A79": {
+        "ID": "164401726DC3442A91FE555819832A79",
+        "Name": "Remove USB",
+        "ActionKeywords": [
+          "reu"
+        ],
+        "Disabled": false
+      },
+      "2112A2EB76524F1C8D91A71B0D219CDF": {
+        "ID": "2112A2EB76524F1C8D91A71B0D219CDF",
+        "Name": "Stack Overflow",
+        "ActionKeywords": [
+          "so"
+        ],
+        "Disabled": false
+      },
+      "DB634BE6F3D34F6D9D64F7C2AEE3ECEC": {
+        "ID": "DB634BE6F3D34F6D9D64F7C2AEE3ECEC",
+        "Name": "Switcheroo for Wox",
+        "ActionKeywords": [
+          "win"
+        ],
+        "Disabled": false
+      },
+      "B4D3B69656E14D44865C8D818EAE47C6": {
+        "ID": "B4D3B69656E14D44865C8D818EAE47C6",
+        "Name": "tips",
+        "ActionKeywords": [
+          "tip"
+        ],
+        "Disabled": false
+      },
+      "5B7E53D506844D2D8B7001AA19F5EF8F": {
+        "ID": "5B7E53D506844D2D8B7001AA19F5EF8F",
+        "Name": "Todos",
+        "ActionKeywords": [
+          "td"
+        ],
+        "Disabled": false
+      },
+      "6c22cffe6b3546ec9087abe149c4a575": {
+        "ID": "6c22cffe6b3546ec9087abe149c4a575",
+        "Name": "Wox.Plugin.Github",
+        "ActionKeywords": [
+          "gh"
+        ],
+        "Disabled": false
+      },
+      "095A6AE3A254432EBBD78F05A71D4981": {
+        "ID": "095A6AE3A254432EBBD78F05A71D4981",
+        "Name": "有道翻译",
+        "ActionKeywords": [
+          "yd"
+        ],
+        "Disabled": false
+      },
+      "39F78C8D0A5B408595753263017A039A": {
+        "ID": "39F78C8D0A5B408595753263017A039A",
+        "Name": "PirateBay",
+        "ActionKeywords": [
+          "pb"
+        ],
+        "Disabled": false
+      },
+      "C3406B5C22F04984B0183DAE897CAB3F": {
+        "ID": "C3406B5C22F04984B0183DAE897CAB3F",
+        "Name": "Dictionary",
+        "ActionKeywords": [
+          "d"
+        ],
+        "Disabled": false
+      },
+      "fafefa6ce31244779e74b29834c424f1": {
+        "ID": "fafefa6ce31244779e74b29834c424f1",
+        "Name": "Glosbe Dictionary",
+        "ActionKeywords": [
+          "dic"
+        ],
+        "Disabled": false
+      }
+    }
+  }
+}

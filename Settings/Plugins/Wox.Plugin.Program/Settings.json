@@ -1,0 +1,21 @@
+{
+  "ProgramSources": [
+    {
+      "Location": "E:\\ChocolateyTools"
+    },
+    {
+      "Location": "E:\\ChocolateyPrograms"
+    },
+    {
+      "Location": "E:\\Games"
+    }
+  ],
+  "ProgramSuffixes": [
+    "bat",
+    "appref-ms",
+    "exe",
+    "lnk"
+  ],
+  "EnableStartMenuSource": true,
+  "EnableRegistrySource": true
+}

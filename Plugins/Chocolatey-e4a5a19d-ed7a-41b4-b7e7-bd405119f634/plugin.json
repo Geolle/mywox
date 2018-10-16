@@ -1,0 +1,12 @@
+﻿{
+  "ID":"26ce9d10d27c11e488300800200c9a66",
+  "ActionKeyword":"choco",
+  "Name":"Chocolatey",
+  "Description":"Use chocolatey from wox",
+  "Author":"blastdan",
+  "Version":"1.1.0",
+  "Language":"csharp",
+  "Website":"https://github.com/blastdan/Wox.Plugin.Choco",
+  "IcoPath": "Images\\icon.png",
+  "ExecuteFileName":"Wox.Plugin.Choco.dll"
+}
